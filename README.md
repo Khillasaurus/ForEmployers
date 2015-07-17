@@ -1,9 +1,11 @@
 # ForEmployers  
-// File:&emsp;&emsp;&emsp;&ensp;README.md  
-// Created:&emsp;&ensp;2015.05.28  
-// Last Edited: 2015.07.05  
-// Copyright:&emsp;Daniel Schenker  
-// Description: Navigation instructions for Daniel Schenker's "ForEmployers" repository at https://github.com/Khillasaurus  
+<span style="font-family:consolas;">
+// File:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;README.md  
+// Created:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2015.05.28  
+// Last Edited:&nbsp;2015.07.16  
+// Copyright:&nbsp;&nbsp;&nbsp;Daniel Schenker  
+// Description:&nbsp;Navigation instructions for Daniel Schenker's "ForEmployers" repository at https://github.com/Khillasaurus  
+</span>
 # EMPLOYER GUIDE  
 Welcome to my github!  
   
@@ -18,13 +20,13 @@ A lack of updates does not mean that the code is not being worked on. Work logs 
 # LAYOUT  
 Major projects go in their own section, while all minor projects fit under one of the following categories:  
 ## Minor Project Categories  
-Complete  
-ForEmployers  
-InProgress  
-School  
-Work  
+ - Complete  
+ - ForEmployers  
+ - InProgress  
+ - School  
+ - Work  
 ## Major Projects  
-GameEngine  
+ - DASGameEngine  
 # NOTES  
 1. In the case of continued work beyond the scope of its initial minor project category,  
 a copy of the project will be created under its own Major Project repository,  
