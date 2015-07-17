@@ -6,6 +6,7 @@
 // Copyright:&nbsp;&nbsp;&nbsp;Daniel Schenker  
 // Description:&nbsp;Navigation instructions for Daniel Schenker's "ForEmployers" repository at https://github.com/Khillasaurus  
 </span>
+  
 # EMPLOYER GUIDE  
 Welcome to my github!  
   
@@ -17,6 +18,7 @@ This is done on purpose both for personal utility, as well to show my learning p
   
 Lastly, my GitHub serves as a portal to my code for the world, and thus a repository may only receive major updates instead of all updates.  
 A lack of updates does not mean that the code is not being worked on. Work logs are available upon request.  
+  
 # LAYOUT  
 Major projects go in their own section, while all minor projects fit under one of the following categories:  
 ## Minor Project Categories  
@@ -25,8 +27,10 @@ Major projects go in their own section, while all minor projects fit under one o
  - InProgress  
  - School  
  - Work  
+  
 ## Major Projects  
  - DASGameEngine  
+  
 # NOTES  
 1. In the case of continued work beyond the scope of its initial minor project category,  
 a copy of the project will be created under its own Major Project repository,  
