@@ -30,6 +30,7 @@ Major projects go in their own section, while all minor projects fit under one o
   
 ## Major Projects  
  - DASGameEngine  
+ - osuSkins-Khillasaurus  
   
 # NOTES  
 1. In the case of continued work beyond the scope of its initial minor project category,  
